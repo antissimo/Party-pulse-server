@@ -1,0 +1,6 @@
+@PPServer_HostAddress = http://localhost:5174
+
+GET {{PPServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
